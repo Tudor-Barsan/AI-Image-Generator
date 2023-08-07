@@ -11,7 +11,7 @@ dotenv.config();
 
 // middleware
 const corsOptions = {
-  origin: "YOUR_FRONTEND_URL", // frontend URI (ReactJS)
+  origin: "https://ai-image-generation-yxtq.onrender.com", // frontend URI (ReactJS)
 }
 
 const app = express();
