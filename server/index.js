@@ -7,11 +7,15 @@ import connectDB from './mongodb/connect.js';
 import postRoutes from './routes/postRoutes.js';
 import dalleRoutes from './routes/dalleRoutes.js';
 
-
 dotenv.config();
 
+// middleware
+const corsOptions = {
+  origin: "YOUR_FRONTEND_URL", // frontend URI (ReactJS)
+}
+
 const app = express();
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json({ limit: '50mb' }));
 
 app.use('/api/v1/post', postRoutes);
