@@ -7,5 +7,6 @@ Developed a full-stack MERN applicaion where users can generate images with AI a
 * Integrate OpenAI's DALL-E API to generate images from text through AI
 * Use React Router to handle client side page routing
 * Style React components using Tailwind CSS
+<br></br>
 
 ![AI Image Generator](https://github.com/Tudor-Barsan/Image-Generation-App/assets/112269862/a25bb1b4-cd1d-433d-ad5a-3fc66f2c4807)
