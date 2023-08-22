@@ -1,6 +1,6 @@
 # 🖼️ AI Image Generator
 
-Developed a full-stack MERN applicaion where users can generate images with AI and share them with the community for others to interact with
+Developed a full-stack MERN applicaion where users can generate images with AI and share them with the community for others to interact with.
 
 ## 🧠 Building this project taught me how to:
 * Create server routes to Post and Get data to and from MongoDB
