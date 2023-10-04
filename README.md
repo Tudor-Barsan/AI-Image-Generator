@@ -2,6 +2,8 @@
 
 Developed a full-stack MERN application where users can generate images with AI and share them with the community for others to interact with.
 
+https://ai-image-generation-yxtq.onrender.com/
+
 ## 🧠 Building this project taught me how to:
 * Create server routes to Post and Get data to and from MongoDB
 * Integrate OpenAI's DALL-E API to generate images from text through AI
