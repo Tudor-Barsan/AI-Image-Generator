@@ -1,4 +1,4 @@
-# 🖼️ AI Image Generator
+# 🖼️ ImaGenate
 
 Developed a full-stack MERN application where users can generate images with AI and share them with the community for others to interact with.
 
