@@ -13,7 +13,7 @@ const App = () => {
         <Link to="/">
           <img src={logo} alt="logo" className="w-28 object-contain"></img>
         </Link>
-
+        <h1 className="font-extrabold text-[#222328] text-[32px]">ImaGenate</h1>
         <Link to="/create-post"
         className="font-inter font-medium bg-[#4e53e3] text-white px-4 py-2 rounded-md 
           hover:bg-[#6469ff] transition duration-200 ease-in-out"
